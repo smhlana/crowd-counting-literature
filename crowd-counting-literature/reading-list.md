@@ -1,10 +1,10 @@
 # Crowd Counting Reading List
 
 ## Core Papers
-- [] Zhang et al., 2016 – MCNN
+- [ ] Zhang et al., 2016 – MCNN
 
 ## Datasets
-- [] MNIST – <author>, <year>
+- [ ] MNIST – <author>, <year>
 
 ## Recent Methods
 - [ ] TransCrowd – Liang et al., 2022
