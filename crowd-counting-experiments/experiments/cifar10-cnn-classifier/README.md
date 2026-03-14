@@ -64,6 +64,18 @@ python app.py
 - Upload an image
 - Get instant classification results!
 
+## References & Learning Resources
+
+This project was built following concepts from these educational resources:
+
+### **Course Reference**
+- **[Computer Vision & Deep Learning with Python](https://www.udemy.com/course/computervision-deeplearning-with-python/)** - Udemy Course
+  - Comprehensive course covering computer vision fundamentals and deep learning implementation
+
+### **Tutorial Reference**  
+- **[Convolutional Neural Networks from Scratch](https://www.youtube.com/watch?v=0nr6TPKlrN0&t=2s)** - YouTube Tutorial
+  - Hands on tutorial on how to deploy an ML model with Python using Flask.
+
 ## License
 
 This project is for educational purposes as part of crowd counting and computer vision research experiments.
