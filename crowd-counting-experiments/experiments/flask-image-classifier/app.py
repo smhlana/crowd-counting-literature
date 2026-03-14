@@ -1,3 +1,5 @@
+import os 
+
 from flask import Flask, render_template, request
 
 from tensorflow.keras.preprocessing.image import load_img, img_to_array
@@ -41,6 +43,8 @@ def predict():
         confidence_level = "medium"
     else:
         confidence_level = "poor"
+
+    os.remove(image_path)
     
     return render_template(INDEX_TEMPLATE, prediction=classification, confidence_level=confidence_level, error=None)
 
