@@ -13,3 +13,4 @@
 
 ## Surveys
 - [X] Keiron O’Shea & Ryan Nash, 2015 – Intro to CNNs
+- [ ] Omar Elharrouss et al., 2022 - Backbones-Review: Feature Extraction Networks for Deep Learning and Deep Reinforcement Learning Approaches
